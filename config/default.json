@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb://boariucristian:0720151501a!@keeper-shard-00-00-gixf9.gcp.mongodb.net:27017,keeper-shard-00-01-gixf9.gcp.mongodb.net:27017,keeper-shard-00-02-gixf9.gcp.mongodb.net:27017/test?ssl=true&replicaSet=Keeper-shard-0&authSource=admin&retryWrites=true&w=majority",
+  "jwtSecret": "secret"
+}
